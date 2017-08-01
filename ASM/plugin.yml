@@ -1,0 +1,6 @@
+name: ASM
+main: io.github.skepter.asm_bukkit.Main
+version: 1.0
+description: Behold, ASM.
+author: Skepter
+website: http://skepter.github.io/
